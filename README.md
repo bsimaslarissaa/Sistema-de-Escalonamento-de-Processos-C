@@ -16,12 +16,14 @@ Histórico de processos encerrados.
 Dados:  
 • PID  
 • motivo do encerramento  
+
 Lista Encadeada  
 Processos ativos.  
 Dados:  
 • PID  
 • nome  
 • estado  
+
 Implemente fila de prioridade onde processos críticos têm prioridade maior.  
 Exemplo:  
 • antivírus → prioridade 10  
